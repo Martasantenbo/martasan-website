@@ -1,11 +1,11 @@
 <template>
-  <div class="content-container mx-auto bg-white">
+  <div>
     <router-view />
   </div>
 </template>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Macondo+Swash+Caps&family=Montserrat:wght@200;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Montserrat:wght@300&display=swap');
 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;

@@ -5,7 +5,7 @@ export default defineConfig({
   theme: {
     extend: {
       fontFamily: {
-      header: ['Macondo Swash Caps', 'cursive'],
+      header: ['Libre Baskerville', 'cursive'],
       text: ['Montserrat', 'sans-serif']
     },
       screens: {
@@ -18,8 +18,8 @@ export default defineConfig({
         small: ['14px', '22px']
       },
       colors: {
-        primary: { DEFAULT: '#52524E', pastel: '#D3D3D2' },
-        secondary: '#49D3CC',
+        primary: { DEFAULT: '#42B883', pastel: '#D3D3D2' },
+        secondary: '#35495E',
         background: { DEFAULT: '#ECEEFB', secondary: '#D1DFF3' },
       },
       boxShadow: {
