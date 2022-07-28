@@ -4,7 +4,7 @@ import Main from './Main.vue';
 import Footer from './Footer.vue';
 </script>
 <template>
-  <Header type="home" />
+  <Header />
   <Main />
   <Footer />
 </template>
