@@ -55,6 +55,7 @@
       <div class="rectangle h-87 w-87 bg-primary"></div>
     </div>
   </div>
+  <h2 class="font-header text-48px mt-45">Projects I've been working on</h2>
 </template>
 <style scoped lang="scss">
 .rectangle {
