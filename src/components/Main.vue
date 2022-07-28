@@ -4,7 +4,7 @@
     <h1 class="font-text text-72px py-3">MARTIN ČERNOCH</h1>
     <h1 class="font-text text-46px">FrontEnd developer</h1>
   </div>
-  <div class="rectangle w-178 h-99 text-36px font-text text-left">
+  <div class="rectangle w-178 h-99 text-36px font-text text-left bg-white">
     <p class="pt-15 pl-4">const data = [
     <p class="pl-8">{</p>
     <p class="pl-11">userName: ‘Martin Černoch’,
@@ -44,6 +44,16 @@
       <img src="../assets/images/windi.png" width="200" />
       <img src="../assets/images/vite.png" width="200" />
     </div>
+    <div class="flex justify-center gap-107 mt-6">
+      <h2 class="font-text text-36px">Vue 3</h2>
+      <h2 class="font-text text-36px">WindiCSS</h2>
+      <h2 class="font-text text-36px">Vite</h2>
+    </div>
+    <div class="flex justify-center mt-10 gap-53">
+      <div class="rectangle h-87 w-87 bg-primary"></div>
+      <div class="rectangle h-87 w-87 bg-primary"></div>
+      <div class="rectangle h-87 w-87 bg-primary"></div>
+    </div>
   </div>
 </template>
 <style scoped lang="scss">
@@ -51,7 +61,6 @@
   border-width: 8px;
   border-radius: 1.5rem;
   border-color: #42B883;
-  background-color: #FFFFFF;
 }
 
 .circle {
