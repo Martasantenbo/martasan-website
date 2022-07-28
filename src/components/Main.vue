@@ -1,5 +1,4 @@
 <template>
-
   <div class="inline-block pr-175">
     <h1 class="font-text text-46px pt-20">Hello, my name is</h1>
     <h1 class="font-text text-72px py-3">MARTIN ČERNOCH</h1>
@@ -37,6 +36,14 @@
   <h2 class="font-header text-48px text-right pt-37 pr-39">About me</h2>
   <div class="rectangle w-450 h-125 mt-5">
     <div class="circle h-85 w-85 my-16 ml-20"><img src="../assets/images/michi.png" width="350" /></div>
+  </div>
+  <h2 class="font-header text-48px pt-80">Tools I'm using</h2>
+  <div class="rectangle h-205 w-430 mt-5">
+    <div class="flex justify-center mt-18 gap-90">
+      <img src="../assets/images/vue.png" width="200" />
+      <img src="../assets/images/windi.png" width="200" />
+      <img src="../assets/images/vite.png" width="200" />
+    </div>
   </div>
 </template>
 <style scoped lang="scss">
