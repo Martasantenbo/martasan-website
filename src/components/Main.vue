@@ -2,7 +2,7 @@
   <div class="inline-block pr-175">
     <h1 class="font-text text-46px pt-20">Hello, my name is</h1>
     <h1 class="font-text text-72px py-3">MARTIN ČERNOCH</h1>
-    <h1 class="font-text text-46px">FrontEnd developer</h1>
+    <h1 class="font-text text-46px">Student, Developer, Gamer</h1>
   </div>
   <div class="rectangle w-178 h-99 text-36px font-text text-left bg-white">
     <p class="pt-15 pl-4">const data = [
