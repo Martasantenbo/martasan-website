@@ -18,8 +18,8 @@ export default defineConfig({
         small: ['14px', '22px']
       },
       colors: {
-        primary: { DEFAULT: '#42B883', pastel: '#D3D3D2' },
-        secondary: '#35495E',
+        primary: { DEFAULT: '#4B8BBE', pastel: '#306998' },
+        secondary: '#FFD43B',
         background: { DEFAULT: '#ECEEFB', secondary: '#D1DFF3' },
       },
       boxShadow: {
