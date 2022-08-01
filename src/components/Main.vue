@@ -1,6 +1,6 @@
 <template>
   <article class="flex">
-    <div class="rectangle w-140 h-65 text-24px font-text text-left text-white bg-primary absolute mt-21 ml-250">
+    <div class="rectangle w-140 h-65 text-24px font-text text-left text-white bg-primary absolute mt-29 ml-320">
       <p class="pl-10 pt-10">const data = [
         <span class="block pl-7">{</span>
         <span>userName: ‘Martin Černoch’,</span>
